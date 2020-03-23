@@ -1,11 +1,24 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@cod3r.com.br"
-    },{
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "mjsd@empresa.com"
-    }]
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjsd@empresa.com"
+    },
+    {
+      "name": "Miroslavis do bronx",
+      "email": "miroBronx@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Alexander Yamarovik",
+      "email": "Yamarovik.saintsrow@yahoo.com",
+      "id": 4
+    },
+    {
+      "name": "Olaf Jr.",
+      "email": "Olaf@cristaldynamics.gg",
+      "id": 5
+    }
+  ]
 }
